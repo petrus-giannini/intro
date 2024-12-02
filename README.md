@@ -1,3 +1,3 @@
 ### Let me introduce myself ###
-<a href=vCard.my.vcf>vCard</a><br />
+[vCard](vCard.my.vcf)
 <img src="Peter.jpeg" /><img src="vCard.my.QRcode.png" />
